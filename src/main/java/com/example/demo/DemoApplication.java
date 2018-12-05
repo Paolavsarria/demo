@@ -18,9 +18,9 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
                 
         
-        String url= "jdbc:postgresql://localhost:5432/INGENIERIADB";
-        String usuario = "postgres";
-        String contrasenia = "pasante3434";
+        String url= "jdbc:postgresql://ec2-54-204-40-248.compute-1.amazonaws.com/d8bnr659h0vgvr";
+        String usuario = "ucwkndgkicpewr";
+        String contrasenia = "fc5aafa538823e44f8281dd5d9933591f810a3cfc078df665200dfd6d37fe72b";
         
                 
    try{
@@ -61,4 +61,6 @@ public class DemoApplication {
                 
                 }
 
+
                 
+
